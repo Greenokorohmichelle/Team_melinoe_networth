@@ -86,3 +86,5 @@ const generateToken = (id, email) => {
 };
 
 export { login, signUp };
+
+// controllers
